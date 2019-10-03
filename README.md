@@ -25,7 +25,7 @@ For user. How to start?
 The description will be implemented later after deployment.
 
 For developer
-1. Download project with https://github.com/svistylin/Library
+1. Download project from https://github.com/svistylin/Library
 2. Open in IntelliJ IDEA or other development enviroment
 3. Create tomcat configuration 
 4. Run project
