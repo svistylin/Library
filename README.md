@@ -20,7 +20,7 @@ Project Structure
 13.c3p0 0.9.5.2
 14.Postgresql 9.4.1212
 
-Instructions before start 
+Instructions before start:
 
 For user. How to start?
 The description will be implemented later after deployment.
