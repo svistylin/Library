@@ -18,7 +18,7 @@ Project Structure
 11.Jackson-annotations 2.9.4
 12.Hibernate-core 5.2.10 
 13.c3p0 0.9.5.2
-14.Postgresql 9.4.1212
+14.Postgresql 9.4.1212.
 
 Instructions before start:
 
